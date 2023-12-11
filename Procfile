@@ -1,0 +1,1 @@
+web: gunicorn gymapi.wsgi --log-file -

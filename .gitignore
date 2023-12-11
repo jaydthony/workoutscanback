@@ -1,0 +1,33 @@
+.vercel
+
+.DS_Store
+node_modules
+/dist
+venv
+genv
+*.pyc
+__pycache__/
+/staticfiles
+staticfiles
+staticfiles/
+
+db.sqlite3
+media
+
+# local env files
+#.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
